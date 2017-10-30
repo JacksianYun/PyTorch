@@ -8,7 +8,7 @@ tensorflow와 같이 널리 사용되는 딥러닝 라이브러리 중 하나입
 1. [basic](01_basic.ipynb) 
 2. [variable autograd](02_variable_autograd.ipynb)
 3. [Linear Regression Models](03_Linear_Regression_Models.ipynb)
-4. [NonLinear Models]()
+4. [NonLinear Models](04_NonLinear_Models.ipynb)
 5. [Classification Models]()
 6. [Batch Tranining]()
 7. [Optimizers]()
