@@ -5,19 +5,19 @@ tensorflow와 같이 널리 사용되는 딥러닝 라이브러리 중 하나입
 > 참고 : https://tensorflow.blog/2017/01/23/pytorch-new-cool-dl-library/
 
 ## Contents  
-1. [basic](01_basic.ipynb)  
+1. [basic](01_basic.ipynb) : torch.Tenosr 사용법, 생성, 연산, 데이터 타입  
 ![](images/01.png)
-2. [variable autograd](02_variable_autograd.ipynb)  
+2. [variable autograd](02_variable_autograd.ipynb) : Variable 사용법, grad, backward 등  
 ![](images/02.png)
-3. [Linear Regression Models](03_Linear_Regression_Models.ipynb)  
+3. [Linear Regression Models](03_Linear_Regression_Models.ipynb) : Linear Models 제작, Naive Model, Neural net Model  
 ![](images/03.png)
-4. [NonLinear Models](04_NonLinear_Models.ipynb)  
+4. [NonLinear Models](04_NonLinear_Models.ipynb) : NonLinear Models 제작, Activation Function, Make Models, Model Save and Load  
 ![](images/04.png)
-5. [Classification Models](05_Classification_Models.ipynb)  
+5. [Classification Models](05_Classification_Models.ipynb) : Classifcation Models 제작, 2진 분류, 다중 분류  
 ![](images/05.png)
-6. [Batch Tranining](06_Batch_Training.ipynb)  
+6. [Batch Tranining](06_Batch_Training.ipynb) : Data.DataLoader, Batch 사용법  
 ![](images/06.png)
-7. [Optimizers](07_Optimizers.ipynb)  
+7. [Optimizers](07_Optimizers.ipynb) : Optimizer function 성능비교  
 ![](images/07.png)
 8. [NN MNIST]()
 9. [Deep NN MNIST]()
