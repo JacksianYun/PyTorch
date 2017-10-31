@@ -26,6 +26,7 @@ tensorflow와 같이 널리 사용되는 딥러닝 라이브러리 중 하나입
 10. [CNN MNIST](10_CNN_MNIST.ipynb) : CNN을 이용한 MNIST  
 ![](images/10.png)
 11. [CNN CIFAR-10](11_CNN_CIFAR-10.ipynb) : CNN을 이용한 CIFAR-10 분류 진행
+![](images/11.png)
 12. [Dropout](12_Dropout.ipynb) : Dropout
 13. [RNN]()
 
