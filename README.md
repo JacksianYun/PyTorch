@@ -19,11 +19,14 @@ tensorflow와 같이 널리 사용되는 딥러닝 라이브러리 중 하나입
 ![](images/06.png)
 7. [Optimizers](07_Optimizers.ipynb) : Optimizer function 성능비교  
 ![](images/07.png)
-8. [NN MNIST]()
-9. [Deep NN MNIST]()
-10. [CNN MNIST]()
-11. [CNN CIFAR-10]()
-12. [Dropout]()
+8. [NN MNIST](08_NN_MNIST.ipynb) : neural network를 이용한 MNIST 진행  
+![](images/08.png)
+9. [Deep NN MNIST](09_Deep_NN_MNIST.ipynb) : deep neural network를 이용한 MNIST 진행  
+![](images/09.png)
+10. [CNN MNIST](10_CNN_MNIST.ipynb) : CNN을 이용한 MNIST  
+![](images/10.png)
+11. [CNN CIFAR-10](11_CNN_CIFAR-10.ipynb) : CNN을 이용한 CIFAR-10 분류 진행
+12. [Dropout](12_Dropout.ipynb) : Dropout
 13. [RNN]()
 
 ## Download and Try
